@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/KISHIN958/fileWrite/fileWrite"
+    "main/fileWrite"
 )
 
 func main() {
